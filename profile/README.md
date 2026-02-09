@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=W.A%20CODING&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%" alt="W.A Coding Header" />
 
   <a href="https://wacoding.org">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=si+lo+puedes+imaginar;lo+podemos+programar;%2C+Mx.;Web+%7C+Mobile+%7C+DevOps;Building+Radar+Cultural" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Si+lo+puedes+imaginar;Lo+podemos+programar;Web+%7C+Mobile+Development;wacoding.org" alt="Typing SVG" />
   </a>
 
   <br/>
